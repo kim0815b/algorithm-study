@@ -6,3 +6,4 @@ def dfs(path, x, y):
 
 
 arr = [input() for _ in range(5)]
+visited = [False] * 25
